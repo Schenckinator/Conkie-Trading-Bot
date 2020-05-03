@@ -1,0 +1,1 @@
+#method for making the short selling trade
